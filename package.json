@@ -1,0 +1,9 @@
+{
+  "name": "com.ran-utils.event-system",
+  "version": "1.0.0",
+  "displayName": "Ran Utils - Event System",
+  "description": "A collection of event system utilities for Unity.",
+  "unity": "6000.2",
+  "unityRelease": "6f2",
+  "author": "khalishzhafran"
+}
